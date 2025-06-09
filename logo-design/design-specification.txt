@@ -1,0 +1,30 @@
+--------------------------------------
+COLORS
+--------------------------------------
+
+Green-msu   18453b
+Steel       c0c6c7 (shadow)  
+Steel       e0e5e5 (light)
+Red         d62d20
+Blue        3D3BF3 (shadow)
+Blue        4285f4 (light)
+
+Black pastel 41444b
+White pastel EFF8FF
+
+
+UNUSED--
+
+Green                  008762
+Gold                   d6b240
+Blue (Ultramarine)     13099f
+Red Cardinal           8C1515
+
+--------------------------------------
+--------------------------------------
+FONT
+--------------------------------------
+
+SPriNT  - Audiowide Google Font
+
+Full form - SpaceGrotesk Google Font
